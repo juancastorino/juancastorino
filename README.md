@@ -5,7 +5,7 @@
 
 - PHP 5, 7 ,8. PHP MVC Frameworks (Laravel, Codeigniter, Yii)
 - Experience in API and microservice design and implementation.
-- Design and managment  of databases
+- Databases Design and management.
 - Solid OOP knowledge, design patterns
 - Docker containers
 - Project Management,
