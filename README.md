@@ -4,6 +4,7 @@
 ## My Qualifications / Skills
 
 - PHP 5, 7 ,8. PHP MVC Frameworks (Laravel, Codeigniter, Yii)
+- JavaScript (Vanilla, React, Node, NextJs, Express)
 - Experience in API and microservice design and implementation.
 - Databases Design and management.
 - Solid OOP knowledge, design patterns
