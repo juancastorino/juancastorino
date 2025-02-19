@@ -1,5 +1,9 @@
 ## About Me
-- 👋 Hi, I’m @juancastorino. Teach Lead and Senior Web Developer in Octopia Software Factory
+- 👋 Hi, I’m @juancastorino.
+
+## Timeline
+- 2024 - current: Software Engineer in Mercado Libre
+- 2016 - 2024: Teach Lead and Senior Web Developer in Octopia Software Factory
 
 ## My Qualifications / Skills
 
