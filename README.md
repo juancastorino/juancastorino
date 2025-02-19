@@ -3,8 +3,8 @@
 
 ## My Qualifications / Skills
 
+- JavaScript/Typescript (Vanilla, React, Node, NextJs, Express)
 - PHP 5, 7 ,8. PHP MVC Frameworks (Laravel, Codeigniter, Yii)
-- JavaScript (Vanilla, React, Node, NextJs, Express)
 - Experience in API and microservice design and implementation.
 - Databases Design and management.
 - Solid OOP knowledge, design patterns
@@ -15,7 +15,7 @@
 - Dart/Flutter
 
 ## Hobbies & Interests
-- 🌱 I’m currently learning ... Flutter
+- 🌱 I’m currently learning ... GoLang
 
 ## How to reach me ...
 
